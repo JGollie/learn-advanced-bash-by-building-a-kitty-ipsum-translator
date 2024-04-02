@@ -108,3 +108,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch script.sh
 __vsc_prompt_cmd_original
 chmod +x script.sh
+./script.sh
