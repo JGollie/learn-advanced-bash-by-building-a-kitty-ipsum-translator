@@ -54,3 +54,4 @@ echo $NAME
 echo Jonathan
 echo $NAME
 cat
+cat name.txt
