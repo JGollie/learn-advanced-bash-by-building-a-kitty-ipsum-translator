@@ -57,3 +57,5 @@ cat
 cat name.txt
 cat > name.txt
 cat < name.txt
+echo Jonathan
+echo Jonathan
