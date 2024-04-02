@@ -36,3 +36,4 @@ echo hello bash > stdout.txt
 read NAME
 $NAME
 echo $NAME
+echo $NAME > stdout.txt
