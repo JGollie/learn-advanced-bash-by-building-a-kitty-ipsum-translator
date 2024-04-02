@@ -37,3 +37,8 @@ read NAME
 $NAME
 echo $NAME
 echo $NAME > stdout.txt
+echo freecodecamp > name.txt
+__vsc_prompt_cmd_original
+echo freecodecamp > name.txt
+echo freecodecamp > name.txt
+echo freeCodeCamp > name.txt
