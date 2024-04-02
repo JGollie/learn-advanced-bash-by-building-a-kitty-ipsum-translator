@@ -49,3 +49,5 @@ echo $NAME
 echo Jonathan
 echo Jonathan
 echo Jonathan
+echo $NAME
+echo $NAME
