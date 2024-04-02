@@ -27,3 +27,4 @@ echo > stdout.txt
 echo > stdout
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
+echo hello bash > stdout.txt
