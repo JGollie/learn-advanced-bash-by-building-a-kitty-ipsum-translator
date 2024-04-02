@@ -51,3 +51,6 @@ echo Jonathan
 echo Jonathan
 echo $NAME
 echo $NAME
+echo Jonathan
+echo $NAME
+cat
