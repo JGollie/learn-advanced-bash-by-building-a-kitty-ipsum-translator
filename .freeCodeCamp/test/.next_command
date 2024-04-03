@@ -207,3 +207,8 @@ wc -l < kitty_ipsum_1.txt >> kitty_info.txt
 wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
+grep -color 'meon' kitty_ipsum.txt
+grep -color 'meon' kitty_ipsum_1.txt
+grep --color 'meon' kitty_ipsum_1.txt
+man grep
+grep --color 'meow' kitty_ipsum_1.txt
