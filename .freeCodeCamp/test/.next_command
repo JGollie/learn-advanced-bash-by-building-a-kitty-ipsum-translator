@@ -251,3 +251,6 @@ sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
 cat 's/freecodecamp/f233C0d3C@mp/i'
 cat 's/freecodecamp/f233C0d3C@mp/i'
 cat name.txt
+grep -l 'meow[a-z]*' kitty_ipsum_1.txt
+grep -o 'meow[a-z]*' kitty_ipsum_1.txt
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt
