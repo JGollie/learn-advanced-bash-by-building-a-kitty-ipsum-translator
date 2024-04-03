@@ -393,3 +393,9 @@ grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 __vsc_prompt_cmd_original
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_2.txt
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n --color 'cat[a-z]*' kitty_ipsum_2.txt
+grep -o --color 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n --color 'cat[a-z]*' kitty_ipsum_2.txt
+grep --color 'cat[a-z]*' kitty_ipsum_2.txt
