@@ -340,3 +340,7 @@ wc -l kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 echo -e "\nNumber of words:" >> kitty_info.txt
+wc -l < kitty_ipsum_2.txt
+wc -w < kitty_ipsum_2.txt
+__vsc_prompt_cmd_original
+wc -w < kitty_ipsum_2.txt >> kitty_info.txt
