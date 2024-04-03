@@ -194,3 +194,7 @@ cat kitty_info.txt
 cat kitty_info.txt
 cat kitty_info_1.txt
 cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+echo -e "\nNumber of words:" >> kitty_info.txt
