@@ -39,3 +39,4 @@ Lines that they appear on:
 ~~ kitty_ipsum_2.txt info ~~
 
 Number of lines:
+28
