@@ -125,3 +125,9 @@ echo Jonathan
 __vsc_prompt_cmd_original
 echo Jonathan
 echo Jonathan
+echo Jonathan
+echo Jonathan
+echo freeCodeCamp > name.txt
+./script.sh
+echo Jonathan
+./script.sh < name.txt

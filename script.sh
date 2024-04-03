@@ -1,4 +1,4 @@
 #! /bin/bash
-read NAME
+read < name.txt
 echo Hello $NAME
 bad_command
