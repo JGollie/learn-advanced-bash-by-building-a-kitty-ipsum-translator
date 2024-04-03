@@ -155,3 +155,9 @@ wc -l kitty_ipsum_1.txt
 wc man
 man wc
 wc -w kitty_ipsum_1.txt
+wc -c kitty_ipsum_1.txt
+man ec
+man wc
+wc -w kitty_ipsum_1.txt
+man wc
+wc -m kitty_ipsum_1.txt
