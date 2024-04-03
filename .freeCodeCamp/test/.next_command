@@ -339,3 +339,4 @@ wc -l kitty_ipsum_2.txt
 wc -l kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
+echo -e "\nNumber of words:" >> kitty_info.txt
