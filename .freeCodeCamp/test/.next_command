@@ -163,3 +163,18 @@ man wc
 wc -m kitty_ipsum_1.txt
 wc kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt > wc
+__vsc_prompt_cmd_original
+cat > kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+echo > kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt > stdout.txt
+cat < kitty_ipsum_1.txt
+wc < kitty_ipsum.txt
+wc < kitty_ipsum.txt
+wc < kitty_ipsum.txt
+wc < kitty_ipsum.txt
+ls --color=auto
+wc < kitty_ipsum
+wc < kitty_ipsum_1.txt
