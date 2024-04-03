@@ -131,3 +131,5 @@ echo freeCodeCamp > name.txt
 ./script.sh
 echo Jonathan
 ./script.sh < name.txt
+./script.sh 2> stderr.txt
+./script.sh < name.txt 2> stderr.txt

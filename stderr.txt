@@ -1,1 +1,1 @@
-bash: ./name.sh: No such file or directory
+./script.sh: line 4: bad_command: command not found
