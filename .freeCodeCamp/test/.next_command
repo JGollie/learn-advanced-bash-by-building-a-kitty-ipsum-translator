@@ -178,3 +178,13 @@ wc < kitty_ipsum.txt
 ls --color=auto
 wc < kitty_ipsum
 wc < kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+echo ~~ kitty_ipsum_1.txt ~~ > kitty_info.txt
+echo ~~ kitty_ipsum_1.txt ~~ < kitty_info.txt
+kitty_info.txt ~~ kitty_ipsum_1.txt ~~ < echo
+echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
+echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
+echo ~~ kitty_ipsum_1.txt info ~~
+echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
+echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
+echo '~~ kitty_ipsum_1.txt info ~~' > kitty_info.txt
