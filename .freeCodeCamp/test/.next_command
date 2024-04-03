@@ -205,3 +205,4 @@ cat < kitty_ipsum_1.txt >> kitty_info.txt
 wc -l < kitty_ipsum_1.txt >> kitty_info.txt
 wc -l < kitty_ipsum_1.txt >> kitty_info.txt
 wc -m < kitty_ipsum_1.txt >> kitty_info.txt
+grep 'meow' kitty_ipsum_1.txt
