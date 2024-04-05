@@ -425,3 +425,4 @@ touch >> translate.sh
 touch --help
 man touch
 touch translate.sh
+chmod +x translate.sh
