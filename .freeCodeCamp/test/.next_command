@@ -433,3 +433,13 @@ echo 123 >> translate.sh
 echo
 __vsc_prompt_cmd_original
 echo
+./translate.sh
+./translate.sh
+./translate.sh
+./translate.sh
+echo 1
+echo $1
+./translate.sh
+./translate.sh
+./translate.sh
+./translate.sh kitty_ipsum_1.txt
