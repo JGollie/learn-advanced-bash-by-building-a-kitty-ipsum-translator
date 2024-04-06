@@ -472,3 +472,7 @@ __vsc_prompt_cmd_original
 cat doggy_ipsum_1.txt
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt
 man diff
+man --color diff
+man diff
+diff --color diff
+diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
